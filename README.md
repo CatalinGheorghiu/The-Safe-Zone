@@ -5,5 +5,6 @@
 Main practiced: <br>
 - Key Events <br>
 - audio event <br>
-- transition in DOM
+- transition in DOM <br>
+- media q.  
 </small>
